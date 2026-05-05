@@ -14,10 +14,7 @@
 
 <!-- HACKER TERMINAL STYLE -->
 <div align="center">
-  
-<p align="center">
-
-```bash
+  <pre><code>
 ┌──(0xAnujSpectre㉿kali)-[~]
 └─$ cat about_me.txt
 
@@ -26,10 +23,9 @@
 ║  🔐 Penetration Tester |  | Red Team Enthusiast             ║
 ║  💻 Building Security Tools | Breaking Insecure Systems     ║
 ╚═════════════════════════════════════════════════════════════╝
-
-```
-</p>
+  </code></pre>
 </div>
+
 
 ---
 
