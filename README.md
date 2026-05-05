@@ -79,7 +79,7 @@ if __name__ == '__main__':
 ```
 
 </td>
-<td width="35%" valign="top">
+<td width="50%" valign="top">
 
 ### 🎯 Quick Stats
 
@@ -90,8 +90,8 @@ if __name__ == '__main__':
 | 🎮 | CTF Player |
 | 📍 | India |
 | 📧 | Anuj.Shukla.Sec@gmail.com |
-| 🎬 | [Tryhackme](https://tryhackme.com/p/ZULU1ALPHA) |
-| 🎬 | [HackTheBox](https://app.hackthebox.com/public/users/712299) |
+| <img src="https://tryhackme.com/img/favicon.png" width="25"/> | [TryHackMe](https://tryhackme.com/p/ZULU1ALPHA) |
+| <img src="https://www.hackthebox.com/images/logo-htb.svg" width="60"/> | [HackTheBox](https://app.hackthebox.com/public/users/712299) |
 
 ### 🔥 Currently Working On
 - **AI Security Tooling** - Leveraging local LLMs for vulnerability research and DFIR
@@ -172,7 +172,7 @@ if __name__ == '__main__':
   <a href="https://www.linkedin.com/in/anuj-shukla-909a551b6/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://tryhackme.com/p/ZULU1ALPHA"><img src="https://img.shields.io/badge/TryHackMe-212C45?style=for-the-badge&logo=tryhackme&logoColor=00ff00" /></a>
   <a href="https://app.hackthebox.com/public/users/712299"><img src="https://img.shields.io/badge/HackTheBox-111927?style=for-the-badge&logo=hackthebox&logoColor=9fef00" /></a>
-  <a href="mailto:anuj.shukla.cs@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:anuj.shukla.sec@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 ---
