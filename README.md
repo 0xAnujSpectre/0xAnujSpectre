@@ -19,7 +19,7 @@
 └─$ cat about_me.txt
 
 ╔═════════════════════════════════════════════════════════════╗
-║  🎯 | Bug Hunter | CTF Player | Security Researcher         ║
+║  🎯 Pentester | CTF Player | Security Researcher         ║
 ║  🔐 Penetration Tester |  | Red Team Enthusiast             ║
 ║  💻 Building Security Tools | Breaking Insecure Systems     ║
 ╚═════════════════════════════════════════════════════════════╝
