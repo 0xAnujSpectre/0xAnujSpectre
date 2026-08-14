@@ -49,7 +49,7 @@ class _ZULU1ALPHA:
         self.alias = "ZULU1ALPHA"
         self.role = "Security Researcher"
         self.location = "India 🇮🇳"
-        self.languages = ["Python", "Bash", "PHP", "JS", "HTML", "C++", ]
+        self.languages = ["Python", "Bash", "SQl", "JS", "HTML", "C++", ]
         
     @property
     def current_focus(self) -> list[str]:
